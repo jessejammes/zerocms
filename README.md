@@ -1,10 +1,9 @@
 
-
 ZeroCMS
 
 	(c) Perez Karjee(www.aas9.in)
 	Created March 2014
-	Project Site- http://www.aas9.in/projects/zerocms
+	Project Site- http://www.aas9.in/zerocms
 
 	Zero CMS is very simple cms built in php and mysql
 
