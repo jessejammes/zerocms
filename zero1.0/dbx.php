@@ -10,7 +10,7 @@ $dbx = mysql_connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD) or
 	
 mysql_select_db(MYSQL_DB, $dbx) or die(mysql_error($dbx));
 
-$sql = 'CREATE TABLE IF NOT EXISTS' zero_acccess_levels(
+$sql = 'CREATE TABLE IF NOT EXISTS zero_acccess_levels(
 access_level 	TINYINT UNSIGNED 	NOT NULL AUTO_INCREMENT,
 access_name 	VARCHAR(50) 		NOT NULL DEFAULT "",
 PRIMARY KEY (access_level)
