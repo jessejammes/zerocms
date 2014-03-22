@@ -12,7 +12,7 @@ ZeroCMS
 	MySQL Server 5.0 or later
 	-----------------------------------------------------------------------------------------------------------------
 	how to install ZeroCMS
-	1. download and extract the zip file into your host directory
+	1. download and extract files from the zip file into your host directory
 	2. create a mysql database
 	3. open 'db.kate.php' using a text editor and enter your database details
 	4. run yourdomain.com/install.kate.php' {'yourdomain.com' is the url of your website or hostname} in a browser and 	   then delete 'install.kate.php'
