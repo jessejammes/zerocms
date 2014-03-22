@@ -6,6 +6,7 @@ ZeroCMS
 	
 	-----------------------------------------------------------------------------------------------------------------
 	Zero CMS is very simple cms built using php and mysql
+	it is completely opensource
 
 	Server Requirements to run this script
 	PHP 5.1 or later
